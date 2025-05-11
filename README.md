@@ -8,5 +8,5 @@
 - [Коллекции](https://github.com/AbdulatipA/JavaCore_HomeWorks/tree/JavaCore/src/main/java/org/example/CollectionsHomeWorks)
 - [Типы классов](https://github.com/AbdulatipA/JavaCore_HomeWorks/tree/JavaCore/src/main/java/org/example/typeofClasses)
 - [Агрегация](https://github.com/AbdulatipA/JavaCore_HomeWorks/tree/JavaCore/src/main/java/org/example/aggregations)
-- [композиция](https://github.com/AbdulatipA/JavaCore_HomeWorks/tree/JavaCore/src/main/java/org/example/compositions)
+- [Композиция](https://github.com/AbdulatipA/JavaCore_HomeWorks/tree/JavaCore/src/main/java/org/example/compositions)
 - [Поиск файлов](https://github.com/AbdulatipA/JavaCore_HomeWorks/tree/JavaCore/src/main/java/org/example/searchFiles)
