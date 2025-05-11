@@ -1,5 +1,5 @@
 # JavaCore_HomeWorks :green_book:
-**Темы :small_black_triangle_down:**
+**:small_red_triangle_down: Темы :small_red_triangle_down:**
 - [ООП](https://github.com/AbdulatipA/JavaCore_HomeWorks/tree/JavaCore/src/main/java/org/example/OOP), [ООП 2](https://github.com/AbdulatipA/JavaCore_HomeWorks/tree/JavaCore/src/main/java/org/example/HWOOP)
 - [Интерфейсы](https://github.com/AbdulatipA/JavaCore_HomeWorks/tree/JavaCore/src/main/java/org/example/inheritance)
 - [Класс Object](https://github.com/AbdulatipA/JavaCore_HomeWorks/tree/JavaCore/src/main/java/org/example/classObject)
