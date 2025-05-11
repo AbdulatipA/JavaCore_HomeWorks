@@ -1,5 +1,5 @@
 # JavaCore_HomeWorks
-## Темы:
+**Темы:**
 - ООП
 - класс Object
 - дженерики
