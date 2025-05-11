@@ -1,4 +1,4 @@
-:green_book: # JavaCore_HomeWorks
+:green_book: #JavaCore_HomeWorks
 **Темы:**
 - [ООП](https://github.com/AbdulatipA/JavaCore_HomeWorks/tree/JavaCore/src/main/java/org/example/OOP), [ООП 2](https://github.com/AbdulatipA/JavaCore_HomeWorks/tree/JavaCore/src/main/java/org/example/HWOOP)
 - [Интерфейсы](https://github.com/AbdulatipA/JavaCore_HomeWorks/tree/JavaCore/src/main/java/org/example/inheritance)
