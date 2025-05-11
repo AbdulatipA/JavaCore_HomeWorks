@@ -1,7 +1,6 @@
-package org.example.CollectionsHomeWorks.List;
+package org.example.CollectionsHomeWorks.List.Task1;
 
 import java.util.*;
-import java.util.stream.Collectors;
 
 public class Main {
     public static void main(String[] args) {

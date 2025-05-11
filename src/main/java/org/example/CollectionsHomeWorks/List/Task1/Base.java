@@ -1,4 +1,4 @@
-package org.example.CollectionsHomeWorks.List;
+package org.example.CollectionsHomeWorks.List.Task1;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
